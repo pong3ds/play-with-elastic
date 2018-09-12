@@ -1,0 +1,4 @@
+package: github.org/pong3ds/play-with-elastic
+import:
+- package: github.com/3dsinteractive/elastic
+  version: ^6.1.29
